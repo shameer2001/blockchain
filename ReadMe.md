@@ -1,3 +1,13 @@
+## How to run:
+
+In the terminal, run:
+
+```
+javac Main.java
+java Main
+```
+
+
 # Introduction to Blockchain: Theory and Structure
 
 This document provides a simplified explanation of how blockchains work, using a basic example to illustrate the underlying principles. By understanding these concepts, we can better appreciate the technology behind cryptocurrencies and other blockchain-based systems.
